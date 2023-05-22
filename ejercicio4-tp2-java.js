@@ -1,6 +1,5 @@
 let sumaNumeros = 0
 let numero = 0
-// let numero = parseInt(prompt("Ingresar número para la suma"))
 
 do{
     numero = prompt("Ingresar número para la suma");
